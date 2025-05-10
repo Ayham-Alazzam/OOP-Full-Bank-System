@@ -1,0 +1,568 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Project55\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrencyMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsCurrencyMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsBankClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsTransferRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsTransferRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsCurrencyCalculatorScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsUpdateCurrencyRateScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsFindCurrencyScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrenciesListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsCurrenciesListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsUpdateUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsDeleteClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsDeleteClient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUsersListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsUsersListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsFindClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsInputValidate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsUpdateClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsDeleteUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsTransactionsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsFindUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{168D5EE3-87FE-4D5C-8945-02873BC54C49}|Project55\\Project55.vcxproj|solutionrelative:Project55\\clsLoginRegisterScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsCurrencyCalculatorScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrencyCalculatorScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsCurrencyCalculatorScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrencyCalculatorScreen.h",
+              "RelativeToolTip": "Project55\\clsCurrencyCalculatorScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T17:56:24.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "clsUpdateCurrencyRateScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUpdateCurrencyRateScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsUpdateCurrencyRateScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUpdateCurrencyRateScreen.h",
+              "RelativeToolTip": "Project55\\clsUpdateCurrencyRateScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T14:21:08.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrency.h",
+              "RelativeDocumentMoniker": "Project55\\clsCurrency.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrency.h",
+              "RelativeToolTip": "Project55\\clsCurrency.h",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAYwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T08:55:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsFindCurrencyScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsFindCurrencyScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsFindCurrencyScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsFindCurrencyScreen.h",
+              "RelativeToolTip": "Project55\\clsFindCurrencyScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T13:45:59.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsCurrenciesListScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrenciesListScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsCurrenciesListScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrenciesListScreen.h",
+              "RelativeToolTip": "Project55\\clsCurrenciesListScreen.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T12:48:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsCurrencyMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrencyMainScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsCurrencyMainScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsCurrencyMainScreen.h",
+              "RelativeToolTip": "Project55\\clsCurrencyMainScreen.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-10T11:22:16.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "clsLoginRegisterScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsLoginRegisterScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsLoginRegisterScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsLoginRegisterScreen.h",
+              "RelativeToolTip": "Project55\\clsLoginRegisterScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-02T16:58:31.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsUser.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUser.h",
+              "RelativeDocumentMoniker": "Project55\\clsUser.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUser.h",
+              "RelativeToolTip": "Project55\\clsUser.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgBAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-27T18:23:36.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsTransferRegisterScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsTransferRegisterScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsTransferRegisterScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsTransferRegisterScreen.h",
+              "RelativeToolTip": "Project55\\clsTransferRegisterScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-08T15:22:14.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\Source.cpp",
+              "RelativeDocumentMoniker": "Project55\\Source.cpp",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\Source.cpp",
+              "RelativeToolTip": "Project55\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-19T10:54:39.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsScreen.h",
+              "RelativeToolTip": "Project55\\clsScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T15:36:43.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsBankClient.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsBankClient.h",
+              "RelativeDocumentMoniker": "Project55\\clsBankClient.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsBankClient.h",
+              "RelativeToolTip": "Project55\\clsBankClient.h",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T11:20:01.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsMainScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsMainScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsMainScreen.h",
+              "RelativeToolTip": "Project55\\clsMainScreen.h",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAtwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T15:45:37.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsManageUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsManageUsersScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsManageUsersScreen.h",
+              "RelativeToolTip": "Project55\\clsManageUsersScreen.h",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAG8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-27T15:52:47.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "clsFindUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsFindUserScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsFindUserScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsFindUserScreen.h",
+              "RelativeToolTip": "Project55\\clsFindUserScreen.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T18:08:42.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "clsClientListScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsClientListScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsClientListScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsClientListScreen.h",
+              "RelativeToolTip": "Project55\\clsClientListScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-22T18:24:08.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsUpdateUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUpdateUserScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsUpdateUserScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUpdateUserScreen.h",
+              "RelativeToolTip": "Project55\\clsUpdateUserScreen.h",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAKAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T17:46:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "clsLoginScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsLoginScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsLoginScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsLoginScreen.h",
+              "RelativeToolTip": "Project55\\clsLoginScreen.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T15:10:31.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "clsAddNewUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsAddNewUserScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsAddNewUserScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsAddNewUserScreen.h",
+              "RelativeToolTip": "Project55\\clsAddNewUserScreen.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAHoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T18:27:07.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "clsUsersListScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUsersListScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsUsersListScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUsersListScreen.h",
+              "RelativeToolTip": "Project55\\clsUsersListScreen.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-28T16:14:46.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "clsTransactionsScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsTransactionsScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsTransactionsScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsTransactionsScreen.h",
+              "RelativeToolTip": "Project55\\clsTransactionsScreen.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T12:34:46.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsFindClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsFindClientScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsFindClientScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsFindClientScreen.h",
+              "RelativeToolTip": "Project55\\clsFindClientScreen.h",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T12:05:58.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "clsDeleteUserScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsDeleteUserScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsDeleteUserScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsDeleteUserScreen.h",
+              "RelativeToolTip": "Project55\\clsDeleteUserScreen.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T17:05:54.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "clsUpdateClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUpdateClientScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsUpdateClientScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUpdateClientScreen.h",
+              "RelativeToolTip": "Project55\\clsUpdateClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-27T20:41:25.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "clsInputValidate.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsInputValidate.h",
+              "RelativeDocumentMoniker": "Project55\\clsInputValidate.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsInputValidate.h",
+              "RelativeToolTip": "Project55\\clsInputValidate.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowEgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T11:21:26.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsDeleteClient.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsDeleteClient.h",
+              "RelativeDocumentMoniker": "Project55\\clsDeleteClient.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsDeleteClient.h",
+              "RelativeToolTip": "Project55\\clsDeleteClient.h",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T18:46:14.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "clsString.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsString.h",
+              "RelativeDocumentMoniker": "Project55\\clsString.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsString.h",
+              "RelativeToolTip": "Project55\\clsString.h",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAtwLcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T11:21:56.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsPerson.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsPerson.h",
+              "RelativeDocumentMoniker": "Project55\\clsPerson.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsPerson.h",
+              "RelativeToolTip": "Project55\\clsPerson.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T11:20:37.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUtil.h",
+              "RelativeDocumentMoniker": "Project55\\clsUtil.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsUtil.h",
+              "RelativeToolTip": "Project55\\clsUtil.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-19T11:23:04.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Global.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\Global.h",
+              "RelativeDocumentMoniker": "Project55\\Global.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\Global.h",
+              "RelativeToolTip": "Project55\\Global.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T15:13:18.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsDate.h",
+              "RelativeDocumentMoniker": "Project55\\clsDate.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsDate.h",
+              "RelativeToolTip": "Project55\\clsDate.h",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowHwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T15:04:01.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsAddNewClientScreen.h",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsAddNewClientScreen.h",
+              "RelativeDocumentMoniker": "Project55\\clsAddNewClientScreen.h",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Project55\\Project55\\clsAddNewClientScreen.h",
+              "RelativeToolTip": "Project55\\clsAddNewClientScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T15:25:01.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

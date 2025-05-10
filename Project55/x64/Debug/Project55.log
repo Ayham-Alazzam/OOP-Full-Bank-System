@@ -1,0 +1,71 @@
+﻿  Source.cpp
+C:\Users\Dell\source\repos\Project55\Project55\clsString.h(41,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsString.h(189,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsString.h(320,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsString.h(368,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsBankClient.h(185,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsUtil.h(63,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsUser.h(227,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      C:\Users\Dell\source\repos\Project55\Project55\clsUser.h(23,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsUser.h(235,9): warning C4240: nonstandard extension used: access to 'clsUser::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      C:\Users\Dell\source\repos\Project55\Project55\clsUser.h(24,9):
+      see declaration of 'clsUser::stTransferLog'
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsUser.h(41,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsAddNewClientScreen.h(30,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsUpdateClientScreen.h(45,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsTransactionsScreen.h(148,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsTransactionsScreen.h(208,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsTransactionsScreen.h(263,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsTransactionsScreen.h(295,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsTransactionsScreen.h(372,25): warning C4101: 'TransactionsChoices': unreferenced local variable
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsCurrency.h(27,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsUpdateCurrencyRateScreen.h(81,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsCurrencyCalculatorScreen.h(17,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsMainScreen.h(137,7): warning C4101: 'AccountNumber': unreferenced local variable
+  (compiling source file 'Source.cpp')
+  
+C:\Users\Dell\source\repos\Project55\Project55\clsBankClient.h(315,1): warning C4715: 'clsBankClients::Save': not all control paths return a value
+C:\Users\Dell\source\repos\Project55\Project55\clsUser.h(419,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project55.vcxproj -> C:\Users\Dell\source\repos\Project55\x64\Debug\Project55.exe

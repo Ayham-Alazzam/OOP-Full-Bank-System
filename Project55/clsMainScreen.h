@@ -46,8 +46,8 @@ private:
 	static int  _ChooseMenueOption()
 	{
 		int Choice;
-		cout << "Enter your choice [1-9]? ";
-		Choice = clsInputValidate::ReadIntNumberBetween(1, 9); 
+		cout << "Enter your choice [1-10]? ";
+		Choice = clsInputValidate::ReadIntNumberBetween(1, 10); 
 		return Choice; 
 	}
 	 
